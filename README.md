@@ -5,13 +5,15 @@ Esta preuba es realizada por David Sandoval, con el usuario de github https://gi
 
 ## Instalación
 Se requiere clonar el repositorio del siguiente enlace:
+
 https://github.com/LDavid-Sandoval/invested-technical-test.git
 
 O por medio de SSH
+
 ```bash
   git clone git@github.com:LDavid-Sandoval/invested-technical-test.git
 ```
-Abrir la carpeta de archivos dentro de Visual Studio Code para poder instalar dependencias requeridas
+Abrir la carpeta de archivos dentro de Visual Studio Code, para poder instalar dependencias requeridas.
 
 ```bash
   npm i 
